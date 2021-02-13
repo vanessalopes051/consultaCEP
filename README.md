@@ -1,4 +1,4 @@
-# consultaCEP
+# Consulta de CEP
 ## Consulta de CEP utilizando API do ViaCep
 
 ### Tecnologias Utilizadas
@@ -6,4 +6,4 @@
 * CSS
 * Bootstrap
 * JavaScript
-* API ViaCep
+* [API ViaCep](#https://viacep.com.br/)
