@@ -9,5 +9,6 @@
 * CSS
 * Bootstrap
 * JavaScript
-* ![API ViaCep](https://viacep.com.br/)
+* [API ViaCep](https://viacep.com.br/)
+* <a href=“http://viacep.com.br/“>API ViaCep</a>
 
